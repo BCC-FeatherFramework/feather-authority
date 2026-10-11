@@ -11,6 +11,7 @@ Config = {
             ['bcc-society'] = true,
             ['bcc-banks'] = true,
             ['bcc-doorlocks'] = true,
+            ['bcc-housing'] = true,
             ['bcc-shops'] = true
         },
         trustedCapabilityRegistrars = {
@@ -18,28 +19,32 @@ Config = {
             ['feather-admin'] = true,
             ['bcc-society'] = true,
             ['bcc-banks'] = true,
-            ['bcc-doorlocks'] = true
+            ['bcc-doorlocks'] = true,
+            ['bcc-housing'] = true
         },
         trustedRoleCreators = {
             ['feather-authority'] = true,
             ['feather-admin'] = true,
             ['bcc-society'] = true,
             ['bcc-banks'] = true,
-            ['bcc-doorlocks'] = true
+            ['bcc-doorlocks'] = true,
+            ['bcc-housing'] = true
         },
         trustedGrantors = {
             ['feather-authority'] = true,
             ['feather-admin'] = true,
             ['bcc-society'] = true,
             ['bcc-banks'] = true,
-            ['bcc-doorlocks'] = true
+            ['bcc-doorlocks'] = true,
+            ['bcc-housing'] = true
         },
         trustedAssigners = {
             ['feather-authority'] = true,
             ['feather-admin'] = true,
             ['bcc-society'] = true,
             ['bcc-banks'] = true,
-            ['bcc-doorlocks'] = true
+            ['bcc-doorlocks'] = true,
+            ['bcc-housing'] = true
         }
     },
     Capabilities = {
