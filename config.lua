@@ -7,23 +7,39 @@ Config = {
     Access = {
         trustedReaders = {
             ['feather-authority'] = true,
-            ['feather-admin'] = true
+            ['feather-admin'] = true,
+            ['bcc-society'] = true,
+            ['bcc-banks'] = true,
+            ['bcc-doorlocks'] = true,
+            ['bcc-shops'] = true
         },
         trustedCapabilityRegistrars = {
             ['feather-authority'] = true,
-            ['feather-admin'] = true
+            ['feather-admin'] = true,
+            ['bcc-society'] = true,
+            ['bcc-banks'] = true,
+            ['bcc-doorlocks'] = true
         },
         trustedRoleCreators = {
             ['feather-authority'] = true,
-            ['feather-admin'] = true
+            ['feather-admin'] = true,
+            ['bcc-society'] = true,
+            ['bcc-banks'] = true,
+            ['bcc-doorlocks'] = true
         },
         trustedGrantors = {
             ['feather-authority'] = true,
-            ['feather-admin'] = true
+            ['feather-admin'] = true,
+            ['bcc-society'] = true,
+            ['bcc-banks'] = true,
+            ['bcc-doorlocks'] = true
         },
         trustedAssigners = {
             ['feather-authority'] = true,
-            ['feather-admin'] = true
+            ['feather-admin'] = true,
+            ['bcc-society'] = true,
+            ['bcc-banks'] = true,
+            ['bcc-doorlocks'] = true
         }
     },
     Capabilities = {
