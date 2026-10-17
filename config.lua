@@ -12,7 +12,8 @@ Config = {
             ['bcc-banks'] = true,
             ['bcc-doorlocks'] = true,
             ['bcc-housing'] = true,
-            ['bcc-shops'] = true
+            ['bcc-shops'] = true,
+            ['bcc-documents'] = true
         },
         trustedCapabilityRegistrars = {
             ['feather-authority'] = true,
